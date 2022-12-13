@@ -1,0 +1,96 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.Container{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    margin: 0%;
+    padding: 10px;
+    
+    }
+.first{
+    
+    padding: 0%;
+    margin: 0%;
+   
+  
+    text-align: center;
+   
+}
+.first img{
+    width: 100%;
+    float: left;
+    height: 700px;
+}
+.text{
+    text-align: center;
+    width: 100%;
+    float: left;
+    background-color: #fcfcfc;
+}
+
+.text h1{
+    font-size: 50px;
+}
+ a{
+    text-decoration: none;
+    justify-content: space-between;
+    color: blue;
+}
+/*.two{
+    background-image: url("Assets/second img.jpg");
+    text-align: center;
+    width: 100%;
+    float: left;   
+}*/
+.text2{
+    background-image: url("Assets/second img.jpg");
+    width: 1250px;
+    float: left;
+    height: 700px;
+    text-align: center;
+    color: white;
+}
+.three{
+    color: white;
+    text-align: center;
+    background-image: url("./Assets/all.jpg");
+    width: 1250px;
+    height: 60em;   
+    float: left;
+    background-repeat: no-repeat; 
+    
+}
+.four{
+    width: 100%;
+    display: flex;
+}
+#iphone{
+    background-image:url("Assets/ip14p.jpg") ;
+    width: 50%;
+    height: 600px;
+    background-repeat: no-repeat; 
+}
+#ipad{
+    background-image: url("Assets/ipad.jpg");
+    width: 50%;
+    height: 600px;
+    background-repeat: no-repeat; 
+}
+
+
+
+
+
+
